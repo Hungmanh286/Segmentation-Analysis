@@ -74,7 +74,3 @@ chuẩn hóa từ tiếng việt, chuẩn hóa câu, loại bỏ link, loại b�
 - PhoBERT (Transformer) với độ chính xác cao nhất 90.93% là lựa chọn phù hợp cho các bài toán xử lý ngôn ngữ tiếng Việt nhờ khả năng xử lý toàn cục và hiệu suất cao, đặc biệt trong các tập dữ liệu phức tạp. Nhưng hạn chế khi thời gian huấn luyện của dài hơn so với Bi-RNN khi batch size tăng.
 - Bi-RNN (với LSTM) với 95.26% độ chính xác vẫn là một phương pháp mạnh mẽ và hiệu quả, đặc biệt khi tài nguyên huấn luyện hạn chế. Khó khăn khi chuỗi dài và có tốc độ huấn luyện chậm hơn khi số lượng layer tăng.
 - Kết quả mang lại thể hiện hiệu quả của các mô hình deep learning trong bài toán phân tích cảm xúc và góp phần đóng góp thực tiễn cho phát triển các ứng dụng NLP.
-
-#### Trong dự án có gì sai sót hay cần cải tiến hay nếu có thắc mắc gì mong bạn đóng góp ý vào issuas của repo này ạ :)).
-
-![#### Thanks for watching!!!](img/thanks-for-watching.jpeg)
